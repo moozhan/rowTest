@@ -457,7 +457,7 @@ A:active {
     /* Adjusting tile size for mobile view */
     .usedTile,
     .tile {
-        height: calc(50vw / 4);
+        height: calc(45vw / 4);
         /* Assuming 9 rows, adjust if different */
         width: calc(100vw / 9);
         /* Assuming 9 columns, adjust if different */
